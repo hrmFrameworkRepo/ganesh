@@ -2,7 +2,7 @@ package gitbashcommands;
 
 import org.testng.annotations.Test;
 
-public class Demo_class {
+public class Demo_class3Test {
 @Test
 public void sampleTest1() {
 	System.out.println("java new project");
